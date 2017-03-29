@@ -1,2 +1,2 @@
 # Dropwizard
-First project demontrating Dropwizard
+First project demonstrating Dropwizard
